@@ -112,9 +112,9 @@ Nuxt3 Simplified Version [lux-nuxt3-template](https://github.com/yangjiakai/lux-
 ## 👻Try it now!
 
 ```
-git clone https://github.com/yangjiakai/lux-admin-vuetify3.git
+git clone https://github.com/CryptoNinja0331/ChatBotVue3.git
 
-cd lux-admin-vuetify3
+cd ChatbotVue3
 
 yarn install
 
