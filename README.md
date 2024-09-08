@@ -78,12 +78,6 @@ Nuxt3 Simplified Version [lux-nuxt3-template](https://github.com/yangjiakai/lux-
 
 ![Alt](https://repobeats.axiom.co/api/embed/306361b2af1a8556f64a0a828e1726a94bff36f0.svg "Repobeats analytics image")
 
-## 💬Contact Me
-
-- Email <a href="mailto:yjkbako@gmail.com">yjkbako@gmail.com</a>
-- Twitter https://twitter.com/baibaixiang
-- Wechat <img  src='/src/assets/wechat-qrcode.png'  alt='DashBoard' width='300' />
-
 ## 💌Preview
 
 <img  src='/src/assets/previews/DashBoard.png'  alt='DashBoard' />
