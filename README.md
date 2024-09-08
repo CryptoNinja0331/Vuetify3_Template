@@ -74,10 +74,6 @@ Nuxt3 Simplified Version [lux-nuxt3-template](https://github.com/yangjiakai/lux-
 - 📝 Rich Text Editor
 - 📇 Responsive multi-platform adaptive
 
-## 📈 Project Activity
-
-![Alt](https://repobeats.axiom.co/api/embed/306361b2af1a8556f64a0a828e1726a94bff36f0.svg "Repobeats analytics image")
-
 ## 💌Preview
 
 <img  src='/src/assets/previews/DashBoard.png'  alt='DashBoard' />
